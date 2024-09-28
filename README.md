@@ -1,2 +1,0 @@
-# octavious
-coding is passion
